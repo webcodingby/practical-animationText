@@ -40,14 +40,11 @@ h1::after {
   }
 
   50% {
-    content: "Nataly";
+    content: "Alex";
   }
 
   75% {
     content: "Yulia";
   }
 
-  100 % {
-    content: "Alex";
-  }
 }
